@@ -1,1 +1,3 @@
-
+PLAN DE PRUEBAS DEL SISTEMA DE CONDOMINIOS
+- Prueba unitaria para validación de campos vacíos en el registro.
+- Prueba de integración para verificar la inserción en la base de datos MySQL/Docker.
